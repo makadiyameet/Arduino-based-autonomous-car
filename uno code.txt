@@ -10,8 +10,8 @@ int LMbackwardpin = 7;
 
 //For Right Motor
 int RMspeedpin = 8;
-int RMforwardpin = 9;
-int RMbackwardpin =10;
+int RMforwardpin = 12;
+int RMbackwardpin =13;
 
 void setup() {
  
